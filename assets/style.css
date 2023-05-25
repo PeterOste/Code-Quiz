@@ -1,0 +1,87 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f2f2f2;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .container {
+    max-width: 600px;
+    padding: 20px;
+  }
+  
+  h1 {
+    margin-top: 0;
+    margin-bottom: 20px;
+    text-align: center;
+    color: #333;
+  }
+  
+  #timer {
+    font-size: 24px;
+    margin-bottom: 20px;
+    text-align: center;
+    color: #777;
+  }
+  
+  #question {
+    font-size: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+    color: #333;
+  }
+  
+  button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: center;
+  }
+  
+  button:hover {
+    background-color: #f0f0f0;
+  }
+  
+  #start-button {
+    margin-bottom: 20px;
+  }
+  
+  #game-over {
+    display: none;
+    margin-bottom: 20px;
+    text-align: center;
+    color: #333;
+  }
+  
+  label {
+    margin-right: 5px;
+    color: #333;
+  }
+  
+  input {
+    padding: 5px;
+    font-size: 16px;
+  }
+  
+  #save-button {
+    margin-top: 10px;
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    cursor: pointer;
+  }
+  
+  #save-button:hover {
+    background-color: #f0f0f0;
+  }
+  /* Added a grey scale color scheme */
+  /* Kept the page generally oriented with the content in the center */
