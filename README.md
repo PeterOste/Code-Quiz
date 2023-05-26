@@ -10,10 +10,10 @@ To access the web page, naviagte to the index.html file and proceed to open it i
 Once the web page has loaded, click on the start button to begin the quiz. Select your answers to each of the five questions, when all have been answered, your score will appear on screen. Enter your initials and click on the save score button. This will log your initials and score to local memory. Click inspect element and navigate to "Application" and then "Local Storage". Inside, there is a key with the label "highScores", the values attached to this display the saved initials and score. This is logged every time the save score button is pressed.
 
 ## GitHub Pages URL
--
+https://peteroste.github.io/Code-Quiz/
 
 ## Screenshot
--
+![QuizGame](https://github.com/PeterOste/Code-Quiz/assets/131497563/9c694f88-bdf8-45cf-92b8-9368c8e280b3)
 
 ## Creation and Acknowledgements
 This project was made with HTML, CSS and JavaScript. The questions for the quiz were taken from the site listed below. The rest of the code was made by myself, Peter Ostertag. I had to look up a lot of information online, which I mainly used w3schools for.
